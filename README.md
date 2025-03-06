@@ -1,12 +1,7 @@
-<center>
+<p align="center">
 <h1><code> xo-mox-pr221  </code></h1>
-<h2><i> Exploratory work for
-
-[mox-pr22](https://github.com/Cyfrin/moccasin/issues/221) 
-
-</i></h2>
-
-</center>
+h2><i>Exploratory work for <a href="https://github.com/Cyfrin/moccasin/issues/221">mox-pr22</a></i></h2>
+</p>
 
 # xo-mox-pr221
 
